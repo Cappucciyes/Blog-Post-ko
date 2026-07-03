@@ -2,7 +2,7 @@ name: Update Blog Submodule
 
 on:
   push:
-    branches: ["master"]
+    branches: ["main"]
     paths: ["*.md"]
 
 jobs:
@@ -12,8 +12,8 @@ jobs:
       - name: Checkout blog repo
         uses: actions/checkout@v7
         with:
-          repository: Cappucciyes/blog
-          token: ${{ secrets.BLOG_TOKEN }}
+          repository: Cappucciyes/blog-ko
+          token: ${{ secrets.BLOG_KO_TOKEN}}
           submodules: true
           fetch-depth: 0
 
