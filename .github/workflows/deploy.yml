@@ -1,0 +1,31 @@
+name: Update Blog Submodule
+
+on:
+  push:
+    branches: ["master"]
+    paths: ["*.md"]
+
+jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout blog repo
+        uses: actions/checkout@v7
+        with:
+          repository: Cappucciyes/blog
+          token: ${{ secrets.BLOG_TOKEN }}
+          submodules: true
+          fetch-depth: 0
+
+      - name: Bump submodule pointer
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "<>"
+          git submodule update --remote --recursive
+          if git diff --quiet; then
+            echo "No submodule changes."
+          else
+            git add .
+            git commit -m "Update _posts submodule"
+            git push
+          fi
