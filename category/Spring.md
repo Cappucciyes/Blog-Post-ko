@@ -5,4 +5,5 @@ title: Spring
 {{title}}
 
 ![springLogo](_posts_ko/images/springLogo.png)
-Post about Spring / Spring Boot framework
+
+Spring / Spring Boot 프레임워크 관련 게시물

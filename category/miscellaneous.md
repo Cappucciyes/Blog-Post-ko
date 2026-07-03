@@ -3,5 +3,4 @@ layout: category
 title: miscellaneous
 ---
 {{title}}
-
-A catch-all for posts that don't fit neatly into other categories, or that I haven't sorted yet. Expect a bit of everything here.
+다른 분류에 딱 맞지 않거나 아직 정리하지 못한 글들을 모아둔 곳입니다. 잡다한 개시물을 보실 수 있습니다.

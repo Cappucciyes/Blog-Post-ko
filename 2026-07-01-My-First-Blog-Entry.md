@@ -3,16 +3,21 @@ layout: post
 date: 2026-07-01
 categories: miscellaneous
 ---
-# About this blog
-I started this blog with two goals in mind: to document and organize what I've learned throughout my programming journey and to improve my writing skills.
+# 블로그를 시작하게 된 이유
+이 블로그는 두 가지 목표를 가지고 시작했습니다. 하나는 제가 프로그래밍을 하면서 배운 내용을 기록하고 체계적으로 정리하는 것이고, 다른 하나는 글쓰기 실력을 향상시키는 것입니다.
 
-After rushing myself to just simply absorb some snippets of knowledge here and there only to apply to my project, I realized I'd never fully and deeply understood many of the things I was using. To mitigate this, I thought it would be a good idea to write some sort of notes about the new things I have learned while working on a project, hoping it will help me connect the dots.
+예전에는 프로젝트에 필요한 지식을 여기저기서 급하게 찾아보고, 필요한 부분만 빠르게 흡수해서 적용하는 데만 집중했습니다. 그러다 보니 제가 사용하고 있는 많은 기술과 개념을 제대로 깊이 있게 이해하지 못하고 있다는 것울 많이 느끼고 있었습니다.
 
-Also, I thought it would be a good idea to train myself to be a better writer. As you can probably tell from this blog post, I'm not an award-winning writer. But I think knowing how to write is an important skill, and I heard that only way to improve is to keep writing.
+그래서 프로젝트를 진행하면서 새롭게 배운 내용을 직접 정리해 보기로 했습니다. 이렇게 기록하는 과정이 흩어져 있던 지식들을 서로 연결하고, 더 깊이 이해하는 데 도움이 되기를 바라고 있습니다.
 
-# To whom it may concern,
-Since I'm publishing these posts publicly, part of me hope that my blog will help someone who faced a similar problem I did. 
+또한 글쓰기 연습도 함께 하고 싶었습니다. 이 글을 읽으면 아시겠지만, 글쓰기를 잘한다고 자신있게 말할 수 없습니다. 하지만 자신의 생각을 명확하게 글로 표현하는 능력은 필요한 능력이라고 생각합니다. 그리고 글을 잘 쓰는 가장 좋은 방법은 꾸준히 쓰는 것이라고 들었습니다.
 
-I intend to write my blog in a way that is approachable to some one like me, as of right now a wannabe developer who have a few personal projects under their belt and wants to understand how and why it works. If needed I also intend to write posts that covers basic stuff as a background needed for my main blog post if needed. I hope that my blog will help you in one way or another. 
+# 이 글을 읽고 계신 분께
 
-I am also open for feedback and willing to learn from anyone. If you find something weird written in my post or something seems missing, feel free to contact me.
+이 글들을 공개적으로 올리게 되므로써, 제 마음 한켠에는 언젠가 저와 비슷한 문제를 겪는 누군가에게 조금이나마 도움이 되었으면 하는 바람이 있습니다.
+
+이 블로그는 현재의 저와 비슷한 독자를 염두에 두고 작성하려고 합니다. 몇 개의 개인 프로젝트를 만들어 본 경험은 있지만 이것이 어떻게 동작하는지, 왜 이렇게 동작하는지를 더 깊이 이해하고 싶은 예비 개발자 말입니다.
+
+필요하다면, 메인 글을 이해하는 데 필요한 기초 개념들을 따로 정리한 글도 함께 작성할 생각입니다. 이 블로그가 여러분에게 어떤 형태로든 도움이 되었으면 좋겠습니다.
+
+마지막으로, 저는 언제나 피드백을 환영하며 누구에게서든 배우고 싶습니다. 글을 읽다가 이상하게 느껴지는 부분이 있거나, 설명이 부족하거나 잘못된 부분이 보인다면 언제든지 알려 주세요.
